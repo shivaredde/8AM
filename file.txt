@@ -1,0 +1,4 @@
+Java 1.8
+My SQL 5.0
+Tomcat 9.0
+Niginix X.Y.Z
